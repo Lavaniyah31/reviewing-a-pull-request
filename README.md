@@ -8,6 +8,11 @@ To play the game:
 1. Select **Master** from the Source drop-down.
 1. Click **Save**.
 1. Navigate to the URL provided in the same section.
+2. I am interested to start my career in information and
+technology and to gain work experience in a leading
+business entity which will help me to reach my goals and
+succeed in life.
+
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
